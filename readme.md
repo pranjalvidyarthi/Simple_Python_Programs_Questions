@@ -1,6 +1,5 @@
 # Basic Python Programs Every Developer should know !
-
-Welcome to Basic Python Programs Every Developer should know !! 🚀 This series is designed to help you learn Python step by step, with a new project every day. Whether you're a complete beginner or looking to strengthen your Python skills, this series will provide hands-on experience through practical coding challenges.
+In this repo you will find out basic python questions.
 
 # 🔥 What You Will Learn
 
@@ -25,18 +24,6 @@ Basic understanding of programming concepts (optional)
 Choose a day's project and run the Python script:
 
 python 01_project-name/main.py
-
-# 📌 Contribution
-
-If you find any issues or have suggestions, feel free to contribute! You can fork the repository, make changes, and submit a pull request. or email me at pvidyarthi8@gmail.com
-
-# 💡 Connect with Me
-
-📺 YouTube         : www.youtube.com/@pranjaltechnology
-📸 Instagram       : vansh.x_x.vidyarthi
-📨 Email           : pvidyarthi8@gmail.com
-🕊 Twitter (X)      : https://x.com/pranjaltech1
-
 
 Happy coding! 🚀🐍
 
